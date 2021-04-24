@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Nandan a.k.a. Sirius93 👋
+
+- 👀 I’m interested in Web dev, Performance enhancemnt, SEO.
+- 💬 Ask me about AMP,PWAs,BOTS
+- 📫 Reach me - nandan.1345@gmail.com
+- 🌱 I’m currently learning Node.js.
+
 
 <!--
 **sirius93/sirius93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
