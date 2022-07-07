@@ -2,7 +2,7 @@
 
 
 
-You probably know me as a Software Engineer who "hacked" an Airline to retrieve his luggage
+You probably know me as The Techie who "hacked" an Airline to retrieve his luggage
 
 I am a full-time Software Developer, Public Speaker, and a part-time Photographer. I love to talk about Cybersecurity, Web Development, Accelerated Mobile Pages, Progressive Web Apps, Natural language Processing, Chatbots, etc.
 
