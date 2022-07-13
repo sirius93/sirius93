@@ -1,8 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nandan </h1>
+# Hi there 👋
 
+<div align="left">
+  <a href="https://twitter.com/_sirius93_">
+    <img
+      src="https://img.shields.io/twitter/follow/_sirius93_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/nandank93/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
+  <a href="https://api.daily.dev/get?r=sirius93" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/ed415d39fcb541cb9fe28123d14c49a9.png?r=42r"
+    />
+  </a>
 
-You probably know me as The Techie who "hacked" an Airline to retrieve his luggage
+</div>
+
+## I am Nandan Kumar
 
 I am a full-time Software Developer, Public Speaker, and a part-time Photographer. I love to talk about Cybersecurity, Web Development, Accelerated Mobile Pages, Progressive Web Apps, Natural language Processing, Chatbots, etc.
 
@@ -14,4 +36,7 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 - 📫 Reach me - nandan.1345@gmail.com
 - 🌱 Contributor -  [@forem](https://github.com/forem/forem)
 
-<p align="left"> <a href="https://twitter.com/_sirius93_" target="blank"><img src="https://img.shields.io/twitter/follow/_sirius93_?logo=twitter&style=for-the-badge" alt="_sirius93_" /></a> </p>
+![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
