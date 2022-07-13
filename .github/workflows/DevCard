@@ -19,3 +19,11 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+
+version: 2
+updates:
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
