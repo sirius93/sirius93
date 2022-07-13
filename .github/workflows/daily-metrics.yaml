@@ -22,7 +22,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: sirius93
           template: classic
           base: header, activity, community
           config_timezone: Europe/Oslo
@@ -40,7 +40,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: sirius93
           template: classic
           base: ""
           config_display: large
@@ -65,7 +65,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: sirius93
           template: classic
           base: ""
           config_display: large
@@ -90,7 +90,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: sirius93
           template: classic
           base: ""
           config_display: large
