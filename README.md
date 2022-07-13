@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/sirius93/sirius93/ddb683d58885a58b4383a79d578b0cb36bcc72e5/devcard.svg"
+      src="https://github.com/sirius93/sirius93/blob/devcard/devcard.svg"
     />
   </a>
 
