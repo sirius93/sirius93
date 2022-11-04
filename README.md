@@ -36,6 +36,11 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 - 📫 Reach me - nandan.1345@gmail.com
 - 🌱 Contributor -  [@forem](https://github.com/forem/forem)
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
+
 ![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/notable.svg)
