@@ -13,6 +13,11 @@
       alt="LinkedIn"
     />
   </a>
+  
+  <a href="https://nandankumar.info/">
+    <img alt="Website" src="https://img.shields.io/website?down_color=lightgray&down_message=offline&style=flat-square&up_color=blue&up_message=up&url=https%3A%2F%2Fnandankumar.info">
+  </a>
+
 
   <a href="https://api.daily.dev/get?r=sirius93" target="_blank">
     <img
