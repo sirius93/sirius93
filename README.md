@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://nandankumar.info/">
-    <img alt="Website" src="https://img.shields.io/website?down_color=lightgray&down_message=offline&style=flat-square&up_color=blue&up_message=up&url=https%3A%2F%2Fnandankumar.info">
+    <img alt="Website" src="https://img.shields.io/website?down_color=lightgray&down_message=offline&style=flat-square&up_color=blue&up_message=up&url=https%3A%2F%2Fnandan.dev">
   </a>
 
 
