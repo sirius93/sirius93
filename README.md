@@ -38,7 +38,7 @@ My claim to fame was when I posted a series of tweets on Twitter about data priv
 In my free time, I like to indulge myself in activities like Photography, Gardening, Snooker, or Boxing. I am a proud owner of many plants, I sometimes talk to them (mostly pep talks).
 
 - 💬 Ask me about AMP, PWAs, BOTS, Front-End, Git, Cyber Security
-- 📫 Reach me - nandan.1345@gmail.com
+- 📫 Reach me - [connect@nandan.dev](mailto:connect@nandan.dev)
 - 🌱 Contributor -  [@forem](https://github.com/forem/forem)
 
 #### :books: Recent Blog Posts
