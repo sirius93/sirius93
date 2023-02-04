@@ -43,11 +43,11 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [ChatGPT: What, How, and Why&#39;s ..!!](https://blog.nandankumar.info/chatgpt-what-how-and-whys)
- - 🚀 [System Design: Caching, Content Delivery Networks &lpar;CDN&rpar; &amp; Proxies.](https://blog.nandankumar.info/system-design-caching-content-delivery-networks-cdn-proxies)
- - 🌮 [System Design: Domain Name System &lpar;DNS&rpar;, Load Balancing &amp; Clustering.](https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering)
- - 🚀 [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
- - 🚀 [5 Chrome/Edge extensions every Developer should have..!!](https://blog.nandankumar.info/5-chrome-edge-extensions-every-developer-should-have)<!-- BLOGPOSTS:END -->
+ - 💯 [Understanding Natural Language Processing: The Basics..!!](https://blog.nandan.dev/understanding-natural-language-processing-the-basics)
+ - 🚀 [ChatGPT: What, How, and Why&#39;s ..!!](https://blog.nandan.dev/chatgpt-what-how-and-whys)
+ - 🌮 [System Design: Caching, Content Delivery Networks &lpar;CDN&rpar; &amp; Proxies.](https://blog.nandan.dev/system-design-caching-content-delivery-networks-cdn-proxies)
+ - 🚀 [System Design: Domain Name System &lpar;DNS&rpar;, Load Balancing &amp; Clustering.](https://blog.nandan.dev/system-design-domain-name-system-dns-load-balancing-clustering)
+ - 🚀 [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://blog.nandan.dev/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)<!-- BLOGPOSTS:END -->
 
 
 ![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
