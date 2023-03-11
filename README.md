@@ -43,11 +43,11 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [How to use gitignore, git hooks for better code management..!!](https://blog.nandan.dev/how-to-use-gitignore-git-hooks-for-better-code-management)
- - 🚀 [Will Artificial Intelligence&lpar;AI&rpar; replace my job: An IT Engineer&#39;s perspective?](https://blog.nandan.dev/will-artificial-intelligenceai-replace-my-job-an-it-engineers-perspective)
- - 🌮 [Understanding Natural Language Processing: The Basics..!!](https://blog.nandan.dev/understanding-natural-language-processing-the-basics)
- - 🚀 [ChatGPT: What, How, and Why&#39;s ..!!](https://blog.nandan.dev/chatgpt-what-how-and-whys)
- - 🚀 [System Design: Caching, Content Delivery Networks &lpar;CDN&rpar; &amp; Proxies.](https://blog.nandan.dev/system-design-caching-content-delivery-networks-cdn-proxies)<!-- BLOGPOSTS:END -->
+ - 💯 [Revolutionize Your News Consumption: The Top 10 Tech News Websites/Apps for Developers](https://blog.nandan.dev/revolutionize-your-news-consumption-the-top-10-tech-news-websitesapps-for-developers)
+ - 🚀 [How to use gitignore, git hooks for better code management..!!](https://blog.nandan.dev/how-to-use-gitignore-git-hooks-for-better-code-management)
+ - 🌮 [Will Artificial Intelligence&lpar;AI&rpar; replace my job: An IT Engineer&#39;s perspective?](https://blog.nandan.dev/will-artificial-intelligenceai-replace-my-job-an-it-engineers-perspective)
+ - 🚀 [Understanding Natural Language Processing: The Basics..!!](https://blog.nandan.dev/understanding-natural-language-processing-the-basics)
+ - 🚀 [ChatGPT: What, How, and Why&#39;s ..!!](https://blog.nandan.dev/chatgpt-what-how-and-whys)<!-- BLOGPOSTS:END -->
 
 
 ![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
