@@ -43,11 +43,11 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [The dilemma of being a front-end developer..!!](https://blog.nandan.dev/the-dilemma-of-being-a-front-end-developer)
- - 🚀 [NLP: A Beginner&#39;s Guide to Large Language Models, Transformers, and Fine-tuning.](https://blog.nandan.dev/nlp-a-beginners-guide-to-large-language-models-transformers-and-fine-tuning)
- - 🌮 [Revolutionize Your News Consumption: The Top 10 Tech News Websites/Apps for Developers](https://blog.nandan.dev/revolutionize-your-news-consumption-the-top-10-tech-news-websitesapps-for-developers)
- - 🚀 [How to use gitignore, git hooks for better code management..!!](https://blog.nandan.dev/how-to-use-gitignore-git-hooks-for-better-code-management)
- - 🚀 [Will Artificial Intelligence&lpar;AI&rpar; replace my job: An IT Engineer&#39;s perspective?](https://blog.nandan.dev/will-artificial-intelligenceai-replace-my-job-an-it-engineers-perspective)<!-- BLOGPOSTS:END -->
+ - 💯 [Design Patterns: Module Design Pattern in JavaScript](https://blog.nandan.dev/design-patterns-module-design-pattern-in-javascript)
+ - 🚀 [The dilemma of being a front-end developer..!!](https://blog.nandan.dev/the-dilemma-of-being-a-front-end-developer)
+ - 🌮 [NLP: A Beginner&#39;s Guide to Large Language Models, Transformers, and Fine-tuning.](https://blog.nandan.dev/nlp-a-beginners-guide-to-large-language-models-transformers-and-fine-tuning)
+ - 🚀 [Revolutionize Your News Consumption: The Top 10 Tech News Websites/Apps for Developers](https://blog.nandan.dev/revolutionize-your-news-consumption-the-top-10-tech-news-websitesapps-for-developers)
+ - 🚀 [How to use gitignore, git hooks for better code management..!!](https://blog.nandan.dev/how-to-use-gitignore-git-hooks-for-better-code-management)<!-- BLOGPOSTS:END -->
 
 
 ![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
