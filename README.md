@@ -43,11 +43,11 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [System Design: Availablity, Scalability, and Types Of Storage.](https://blog.nandan.dev/system-design-availablity-scalability-and-types-of-storage)
- - 🚀 [The Power of ChatGPT Prompts: Unleashing Creativity and Utility..!!](https://blog.nandan.dev/the-power-of-chatgpt-prompts-unleashing-creativity-and-utility)
- - 🌮 [Design Patterns: Module Design Pattern in JavaScript](https://blog.nandan.dev/design-patterns-module-design-pattern-in-javascript)
- - 🚀 [The dilemma of being a front-end developer..!!](https://blog.nandan.dev/the-dilemma-of-being-a-front-end-developer)
- - 🚀 [NLP: A Beginner&#39;s Guide to Large Language Models, Transformers, and Fine-tuning.](https://blog.nandan.dev/nlp-a-beginners-guide-to-large-language-models-transformers-and-fine-tuning)<!-- BLOGPOSTS:END -->
+ - 💯 [System Design: Databases and DBMS](https://blog.nandan.dev/system-design-databases-and-dbms)
+ - 🚀 [System Design: Availablity, Scalability, and Types Of Storage.](https://blog.nandan.dev/system-design-availablity-scalability-and-types-of-storage)
+ - 🌮 [The Power of ChatGPT Prompts: Unleashing Creativity and Utility..!!](https://blog.nandan.dev/the-power-of-chatgpt-prompts-unleashing-creativity-and-utility)
+ - 🚀 [Design Patterns: Module Design Pattern in JavaScript](https://blog.nandan.dev/design-patterns-module-design-pattern-in-javascript)
+ - 🚀 [The dilemma of being a front-end developer..!!](https://blog.nandan.dev/the-dilemma-of-being-a-front-end-developer)<!-- BLOGPOSTS:END -->
 
 
 ![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
