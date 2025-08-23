@@ -53,4 +53,3 @@ In my free time, I like to indulge myself in activities like Photography, Garden
 ![Metrics](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/sirius93/sirius93/github-metrics/achievements.svg)
